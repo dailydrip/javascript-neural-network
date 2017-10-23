@@ -1,0 +1,9 @@
+{
+  "name": "neural-network",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "synaptic": "^1.1.4"
+  }
+}
