@@ -6,6 +6,20 @@ regression@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/regression/-/regression-2.0.0.tgz#0f23e4012f0a4c2b5ef828b4f4b4e39f72dfb96a"
 
+str-encode@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/str-encode/-/str-encode-1.0.5.tgz#d5f534d3a037e2c50b867462b2f25e9355b622dc"
+
 synaptic@^1.1.4:
   version "1.1.4"
   resolved "https://registry.yarnpkg.com/synaptic/-/synaptic-1.1.4.tgz#b058163e2e86a3f86fc964ab792496c0642c13d7"
+
+textbintext@^0.2.3:
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/textbintext/-/textbintext-0.2.3.tgz#327f397ee95c724e6775a17378d0c54594dfbfd1"
+  dependencies:
+    zero-fill "^2.2.3"
+
+zero-fill@^2.2.3:
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/zero-fill/-/zero-fill-2.2.3.tgz#a3def06ba5e39ae644850bb4ca2ad4112b4855e9"
